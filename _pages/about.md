@@ -28,6 +28,15 @@ Recent News
 
 Education
 ======
-* PhD, Electrical and Computer Engineering (University of Waterloo), 2021
-* MASc, Electrical and Computer Engineering (Toronto Metropolitan University), 2017
-* BEng, Electrical Engineering (University of Ontario Institute of Technology), 2015
+* PhD, Electrical and Computer Engineering (University of Waterloo, Canada), 2021
+* MASc, Electrical and Computer Engineering (Toronto Metropolitan University, Canada), 2017
+* BEng, Electrical Engineering (University of Ontario Institute of Technology, Canada), 2015
+
+Research Interests
+======
+* Digital twin-empowered network management
+* Intelligent network management for B5G/6G
+* Integrated sensing, communication, and computing
+* Cloud and multi-access edge computing
+* Mobile Virtual Reality (VR)/Augmented Reality (AR)
+* Network Slicing
