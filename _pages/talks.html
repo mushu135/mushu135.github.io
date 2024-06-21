@@ -1,20 +1,16 @@
 ---
 layout: archive
-title: "Research"
-permalink: /Research/
+title: "Talks and presentations"
+permalink: /talks/
 author_profile: true
 ---
 
-{% include base_path %}
+{% if site.talkmap_link == true %}
 
-Research Interests
-======
-* Digital twin-empowered network management
-* Intelligent network management for B5G/6G
-* Integrated sensing, communication, and computing
-* Cloud and multi-access edge computing
-* Mobile Virtual Reality (VR)/Augmented Reality (AR)
-* Network Slicing
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-Previous Research Projects
-======
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
