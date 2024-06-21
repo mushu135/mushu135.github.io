@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Books
+======
+
+* **M.Li**, J. Gao, X. Shen and L. Zhao, Intelligent Computing and Communication for the Internet of Vehicles. eBook ISBN 978-3-031-22860-5, Print ISBN 978-3-031-22859-9, Springer, 2023.
+
+* J. Gao, **M.Li**, and W. Zhuang, Connectivity and Edge Computing in IoT: Customized Designs and AI-based Solutions. eBook ISBN 978-3-030-88743-8, Print ISBN 978-3-030-88742-1, Springer, 2021.
