@@ -25,11 +25,3 @@ Recent News
 * <span style="color:blue"> **Jan. 2024** </span> Our paper "Digital Twin-based 3D Map Management for Edge-assisted Device Pose Tracking in Mobile AR," has been accepted by the IEEE Internet of Things Journal.
 * <span style="color:blue"> **Jan. 2024** </span> **Award** [IEEE Toronto Section Outstanding New Leader Awards](https://www.ieeetoronto.ca/awards-2/), 2023
 
-
-
-Education
-======
-* PhD, Electrical and Computer Engineering (University of Waterloo, Canada), 2021
-* MASc, Electrical and Computer Engineering (Toronto Metropolitan University, Canada), 2017
-* BEng, Electrical Engineering (University of Ontario Institute of Technology, Canada), 2015
-
