@@ -53,6 +53,4 @@ for Electrical Engineering
 * President's List, University of Ontario Institute of Technology (5 times), 2011-2015
 * Dean's List, University of Ontario Institute of Technology (2 times), 2011-2015
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
