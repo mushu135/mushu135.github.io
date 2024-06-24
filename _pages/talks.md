@@ -20,22 +20,22 @@ Research Interests
 * Mobile edge computing
 
 
-# Digital twin-assisted network management
+## Digital twin-assisted network management
 <br/> Virtualize users, devices and subnetworks for service-centric and user-centric networking toward data-driven 6G
 <br/><img src='/images/DT.png' width="200"> 
 
-# Network slicing for B5G/6G
+## Network slicing for B5G/6G
 <br/> Reserve resources to support various services on top of the same network infrastructure while adapting to various network dynamics
 <br/><img src='/files/slicing.png' width="200"> 
 
-# Resource management for mobile VR/AR
+## Resource management for mobile VR/AR
 <br/> Cut the cord on your VR headsets! Customize content delivery strategies for immersive VR/AR experience
 <br/><img src='/files/VR.png' width="200"> 
 
-# Intelligent Internet-of-Things (IoT)
+## Intelligent Internet-of-Things (IoT)
 <br/> Design the networks to run AI/ML on resource-limited IoT nodes
 <br/><img src='/files/EdgeIntelligence.png' width="200">
 
-# Vehicular networks
+##Vehicular networks
 <br/> Optimize the connectivity among vehicles traveling along the roads for supporting emerging applications (e.g., automated driving)
-<br/><img src='/files/Veh.png' width="200">
+<br/><img src='/files/veh.png' width="200">
