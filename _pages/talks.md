@@ -26,16 +26,16 @@ Research Interests
 
 # Network slicing for B5G/6G
 <br/> Reserve resources to support various services on top of the same network infrastructure while adapting to various network dynamics
-<br/><img src='/images/slicing.png' width="200"> 
+<br/><img src='/files/slicing.png' width="200"> 
 
 # Resource management for mobile VR/AR
 <br/> Cut the cord on your VR headsets! Customize content delivery strategies for immersive VR/AR experience
-<br/><img src='/images/VR.png' width="200"> 
+<br/><img src='/files/VR.png' width="200"> 
 
 # Intelligent Internet-of-Things (IoT)
 <br/> Design the networks to run AI/ML on resource-limited IoT nodes
-<br/><img src='/images/EdgeIntelligence.png' width="200">
+<br/><img src='/files/EdgeIntelligence.png' width="200">
 
 # Vehicular networks
 <br/> Optimize the connectivity among vehicles traveling along the roads for supporting emerging applications (e.g., automated driving)
-<br/><img src='/images/Veh.png' width="200">
+<br/><img src='/files/Veh.png' width="200">
