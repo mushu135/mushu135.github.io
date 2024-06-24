@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mushu Li"
+title                    : "Mushu Li/Home"
 title_separator          : "-"
 name                     : &name "Mushu Li"
 description              : &description "NSERC post-doc at Toronto Metropolitan University"
