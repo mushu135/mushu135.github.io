@@ -26,6 +26,8 @@ Work experience
   
 Awards
 ======
+* IEEE Best Land Transportation Paper Award, 2024
+  * **M. Li**, N. Cheng, J. Gao, Y. Wang, L. Zhao and X. Shen, "Energy-Efficient UAV-Assisted Mobile Edge Computing: Resource Allocation and Trajectory Optimization," in IEEE Transactions on Vehicular Technology, vol. 69, no. 3, pp. 3424-3438, March 2020
 * IEEE Toronto Section Outstanding New Leader Award, 2023
 * NSERC Postdoctoral Fellowship (PDF) Award, 2022-2024
   * Above 80th percentile standing out of all applications in the Selection Committee
