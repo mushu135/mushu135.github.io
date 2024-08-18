@@ -16,6 +16,7 @@ Books
 
 Journal Paper
 ======
+* **M. Li**, J. Gao, C. Zhou, L. Zhao, and X. Shen, “Digital Twin-Empowered Resource Allocation for On-Demand Collaborative Sensing," IEEE Internet of Things Journal, _accepted_, 2024.
 * **M. Li**, J. Gao, C. Zhou, X. Shen, and W. Zhuang, “User Dynamics-Aware Edge Caching and Computing for Mobile Virtual Reality," IEEE Journal of Selected Topics in Signal Processing, vol. 17, no. 5, pp. 1131-1146, Sept. 2023.
 * **M. Li**, J. Gao, L. Zhao, and X. Shen, “Adaptive Computing Scheduling for Edge-assisted Autonomous Driving,” IEEE Transactions on Vehicular Technology, vol. 70, no. 6, pp. 5318-5331, June 2021.
 * **M. Li**, J. Gao, C. Zhou, X. Shen, and W. Zhuang “Slicing-Based Artificial Intelligence Service Provisioning on the Network Edge: Balancing AI Service Performance and Resource Consumption of Data Management,” IEEE Vehicular Technology Magazine, vol. 16, no. 4, pp. 16-26, Dec. 2021.
@@ -54,6 +55,7 @@ Journal Paper
 
 Conference Paper
 ======
+* **M. Li**, J. Gao, C. Zhou, L. Zhao, and X. Shen, “On-Demand Collaborative Sensing with Digital Twin-Driven Resource Allocation," IEEE VTC 2024-Fall, _accepted_, 2024.
 * **M. Li**, J. Gao, C. Zhou, X. Shen, and W. Zhuang, “Adaptive Mobile VR Content Delivery for Industrial 5.0," The 1st ACM MobiCom Workshop on Digital Twin \& Edge AI for IIoT, Sydney, Australia, October 17-21, 2022.
 * **M. Li**, J. Gao, C. Zhou, X. Shen, and W. Zhuang, “Digital Twin-Driven Computing Resource Management for Vehicular Networks," IEEE Global Communications Conference (GLOBECOM), Rio de Janeiro, Brazil, Dec. 4-8, 2022.
 * **M. Li**, J. Gao, N. Zhang, L. Zhao and X. Shen, “Collaborative Computing in Vehicular Networks: A Deep Reinforcement Learning Approach,” IEEE International Conference on Communications (ICC),  virtual/Dublin, Ireland, June 2020.
