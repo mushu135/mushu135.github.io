@@ -6,17 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an NSERC post-doctoral fellow in the Department of Electrical, Computer and Biomedical Engineering at [Toronto Metropolitan University](https://www.torontomu.ca/). I obtained my PhD from the Department of Electrical and Computer Engineering, University of Waterloo, in 2021, supervised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/electrical-computer-engineering/profile/sshen) (Fellow of IEEE, RSC, CAE and EIC). My research interests include resource management for next-generation wireless networks (B5G/6G), emerging Internet of Things (IoT) systems, and network virtualization. My work focuses on maximizing the utilization efficiency of network resources (e.g., communication, caching, computing, sensing, energy, etc.) to enhance wireless network performance and support emerging network applications (e.g., VR/AR, autonomous driving, etc.).
+I am an Assistant Professor in the [Department of Computer Science and Engineering](https://engineering.lehigh.edu/cse) at [Lehigh University](https://www2.lehigh.edu/). I obtained my PhD from the Department of Electrical and Computer Engineering, University of Waterloo, in 2021, supervised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/electrical-computer-engineering/profile/sshen) (Fellow of IEEE, RSC, CAE and EIC). My research interests include resource management for next-generation wireless networks (B5G/6G), emerging Internet of Things (IoT) systems, and network virtualization. My work focuses on maximizing the utilization efficiency of network resources (e.g., communication, caching, computing, sensing, energy, etc.) to enhance wireless network performance and support emerging network applications (e.g., VR/AR, autonomous driving, etc.).
 
 Open Position
 ======
-I will join the Department of Computer Science and Engineering at Lehigh University, US, in August 2024. I am looking for motivated graduate/undergraduate/visiting students to work in my lab to conduct research on B5G/6G. If interested, please send the following documents to [mul224@lehigh.edu](mailto:mul224@lehigh.edu):
+I am looking for motivated graduate/undergraduate/visiting students to work in my lab to conduct research on B5G/6G. If interested, please send the following documents to [mul224@lehigh.edu](mailto:mul224@lehigh.edu):
 1. Your CV
 2. Transcripts from your undergraduate and graduate (if applicable) programs
 3. A sample publication (if applicable) 
 
 Recent News
 ======
+* <span style="color:blue"> **Aug. 2024** </span> Our paper "Digital Twin-Empowered Resource Allocation for On-Demand Collaborative Sensing" has been accepted in IEEE IoTJ.
 * <span style="color:blue"> **June 2024** </span> **Award** Our [journal paper](https://ieeexplore.ieee.org/document/8964328) wins the [IEEE Best Land Transportation Paper Award](https://vtsociety.org/paper-award/ieee-best-land-transportation-paper-award), 2024
 * <span style="color:blue"> **June 2024** </span> Our paper "Viewing Distance-Aware Volumetric Video Caching and Rendering for XR Services" has been accepted by IEEE/CIC ICCC 2024.
 * <span style="color:blue"> **June 2024** </span> Our paper "Efficient Digital Twin Data Processing for Low-Latency Multicast Short Video Streaming" has been accepted by IEEE/CIC ICCC 2024.
