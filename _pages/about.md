@@ -14,6 +14,7 @@ I am looking for motivated graduate/undergraduate/visiting students to work in m
 1. Your CV
 2. Transcripts from your undergraduate and graduate (if applicable) programs
 3. A sample publication (if applicable)
+   
 You can find the ads in the PDF version [here](../assets/MushuLi_ads.pdf).
 
 Recent News
