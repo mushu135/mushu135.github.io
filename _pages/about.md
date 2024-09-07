@@ -8,12 +8,13 @@ redirect_from:
 ---
 I am an Assistant Professor in the [Department of Computer Science and Engineering](https://engineering.lehigh.edu/cse) at [Lehigh University](https://www2.lehigh.edu/). I obtained my PhD from the Department of Electrical and Computer Engineering, University of Waterloo, in 2021, supervised by [Prof. Xuemin (Sherman) Shen](https://uwaterloo.ca/electrical-computer-engineering/profile/sshen) (Fellow of IEEE, RSC, CAE and EIC). My research interests include resource management for next-generation wireless networks (B5G/6G), emerging Internet of Things (IoT) systems, and network virtualization. My work focuses on maximizing the utilization efficiency of network resources (e.g., communication, caching, computing, sensing, energy, etc.) to enhance wireless network performance and support emerging network applications (e.g., VR/AR, autonomous driving, etc.).
 
-Open Position
+Open Position 
 ======
 I am looking for motivated graduate/undergraduate/visiting students to work in my lab to conduct research on B5G/6G. If interested, please send the following documents to [mul224@lehigh.edu](mailto:mul224@lehigh.edu):
 1. Your CV
 2. Transcripts from your undergraduate and graduate (if applicable) programs
-3. A sample publication (if applicable) 
+3. A sample publication (if applicable)
+You can find the ads in the PDF version [here](../assets/MushuLi_ads.pdf).
 
 Recent News
 ======
