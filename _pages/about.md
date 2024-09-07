@@ -15,7 +15,7 @@ I am looking for motivated graduate/undergraduate/visiting students to work in m
 2. Transcripts from your undergraduate and graduate (if applicable) programs
 3. A sample publication (if applicable)
    
-You can find the ads in the PDF version [here](../assets/Mushu Li_ads.pdf).
+You can find the ads in the PDF version [here](../assets/ads.pdf)
 
 Recent News
 ======
