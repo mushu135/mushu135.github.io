@@ -19,9 +19,9 @@ You can find the ads in the PDF version [here](../assets/ads.pdf)
 
 Call for Papers
 ======
-* <span style="color:blue"> **Jan. 2025* I will serve as IEEE MASS 2025 Poster & Demo Co-chairs. Authors are invited to submit interesting results/posters on all aspects of ad hoc and smart systems. For more info, please visit: [link](https://ieeemass2025.github.io/ieeemass2025/callforposters.html).
-* <span style="color:blue"> **Jan. 2025* I will serve as IEEE VTC-Spring 2025 Technical Program Co-chairs for Workshop -- Advanced Digital Twin and Pervasive Intelligence Integration for Next-Gen Vehicular Networks. For more info, please visit: [link](https://icons-research-group.github.io/ADT-NGVNet/).
-* <span style="color:blue"> **Jan. 2025* I will serve as IEEE VTC-Fall 2025 Track co-Chairs for Track 6 -- IoV, IoT, M2M, Sensor Networks, and Ad-Hoc Networking. For more info, please visit: [link](https://events.vtsociety.org/vtc2025-fall/authors/call-for-papers-2/).
+* <span style="color:blue"> **Jan. 2025** I will serve as IEEE MASS 2025 Poster & Demo Co-chairs. Authors are invited to submit interesting results/posters on all aspects of ad hoc and smart systems. For more info, please visit: [link](https://ieeemass2025.github.io/ieeemass2025/callforposters.html).
+* <span style="color:blue"> **Jan. 2025** I will serve as IEEE VTC-Spring 2025 Technical Program Co-chairs for Workshop -- Advanced Digital Twin and Pervasive Intelligence Integration for Next-Gen Vehicular Networks. For more info, please visit: [link](https://icons-research-group.github.io/ADT-NGVNet/). Submission Deadline: **March 15, 2025**
+* <span style="color:blue"> **Jan. 2025** I will serve as IEEE VTC-Fall 2025 Track co-Chairs for Track 6 -- IoV, IoT, M2M, Sensor Networks, and Ad-Hoc Networking. For more info, please visit: [link](https://events.vtsociety.org/vtc2025-fall/authors/call-for-papers-2/). Submission Deadline: **February 27, 2025**
 
 Recent News
 ======
