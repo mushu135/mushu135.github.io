@@ -25,6 +25,7 @@ Call for Papers
 Recent News
 ======
 * <span style="color:blue"> **July 2025** </span> Our paper "Drift-Adaptive Slicing-Based Resource Management for Cooperative ISAC Networks" has been accepted in IEEE TCCN.
+* * <span style="color:blue"> **June 2025** </span> **Award** Our [journal paper](https://ieeexplore.ieee.org/abstract/document/8954683) wins the [IEEE VTS OJVT Best Paper Award](https://vtsociety.org/paper-award/best-paper-award/ieee-vts-ojvt-best-paper-award), 2025
 * <span style="color:blue"> **June 2025** </span> I am serving as an associate editor for IEEE Wireless Communication Letter.
 * <span style="color:blue"> **Mar. 2025** </span> Our paper "QoE-Aware Volumetric Video Caching and Rendering for Mobile Extended Reality Services" has been accepted in IEEE IoTJ.
 * <span style="color:blue"> **Feb. 2025** </span> Two papers have been accepted in IEEE ICC.
