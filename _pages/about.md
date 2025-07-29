@@ -19,13 +19,13 @@ You can find the ads in the PDF version [here](../assets/ads.pdf)
 
 Call for Papers
 ======
-* <span style="color:blue"> **Jan. 2025** I serve as IEEE MASS 2025 Poster & Demo Co-chairs. Authors are invited to submit interesting results/posters on all aspects of ad hoc and smart systems. For more info, please visit: [link](https://ieeemass2025.github.io/ieeemass2025/callforposters.html).
-* <span style="color:blue"> **Jan. 2025** I serve as IEEE VTC-Spring 2025 Technical Program Co-chairs for Workshop -- Advanced Digital Twin and Pervasive Intelligence Integration for Next-Gen Vehicular Networks. For more info, please visit: [link](https://icons-research-group.github.io/ADT-NGVNet/). Submission Deadline: **EXTENDED: 13 March 2025**
-* <span style="color:blue"> **Jan. 2025** I serve as IEEE VTC-Fall 2025 Track co-Chairs for Track 6 -- IoV, IoT, M2M, Sensor Networks, and Ad-Hoc Networking. For more info, please visit: [link](https://events.vtsociety.org/vtc2025-fall/authors/call-for-papers-2/). Submission Deadline: **Extended: 3 April 2025**
+* <span style="color:blue"> **July 2025** Call for paper: I serve as IEEE GLOBECOM 2025 Technical Program Co-chairs for Workshop -- Interplay of Digital Twins and Pervasive Artificial Intelligence for Next-Generation IoT. Submission Deadline: **EXTENDED: 7 Aug 2025**. For more info, please visit: [link](https://globecom2025.ieee-globecom.org/workshop/ws-30-interplay-digital-twins-and-pervasive-artificial-intelligence-next-generation-iot).
 * <span style="color:blue"> **Mar. 2025** I serve as a guest editor for a special issue: _Intelligent Network Security for Next Generation Internet_ in _IEEE Transactions on Network Science and Engineering (TNSE)_. For more info, please visit: [link](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/intelligent-network-security-next-generation-internet). Submission Deadline: **October 1st, 2025**
 
 Recent News
 ======
+* <span style="color:blue"> **July 2025** </span> Our paper "Drift-Adaptive Slicing-Based Resource Management for Cooperative ISAC Networks" has been accepted in IEEE TCCN.
+* <span style="color:blue"> **June 2025** </span> I am serving as an associate editor for IEEE Wireless Communication Letter.
 * <span style="color:blue"> **Mar. 2025** </span> Our paper "QoE-Aware Volumetric Video Caching and Rendering for Mobile Extended Reality Services" has been accepted in IEEE IoTJ.
 * <span style="color:blue"> **Feb. 2025** </span> Two papers have been accepted in IEEE ICC.
 * <span style="color:blue"> **Aug. 2024** </span> Our paper "Digital Twin-Empowered Resource Allocation for On-Demand Collaborative Sensing" has been accepted in IEEE IoTJ.
