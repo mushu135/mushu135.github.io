@@ -17,13 +17,9 @@ I am looking for motivated master/undergraduate/visiting students to work in my 
    
 You can find the ads in the PDF version [here](../assets/ads.pdf)
 
-Call for Papers
-======
-* <span style="color:blue"> **July 2025** Call for paper: I serve as IEEE GLOBECOM 2025 Technical Program Co-chairs for Workshop -- Interplay of Digital Twins and Pervasive Artificial Intelligence for Next-Generation IoT. Submission Deadline: **EXTENDED: 7 Aug 2025**. For more info, please visit: [link](https://globecom2025.ieee-globecom.org/workshop/ws-30-interplay-digital-twins-and-pervasive-artificial-intelligence-next-generation-iot).
-* <span style="color:blue"> **Mar. 2025** I serve as a guest editor for a special issue: _Intelligent Network Security for Next Generation Internet_ in _IEEE Transactions on Network Science and Engineering (TNSE)_. For more info, please visit: [link](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/intelligent-network-security-next-generation-internet). Submission Deadline: **October 1st, 2025**
-
 Recent News
 ======
+* <span style="color:blue"> **Oct. 2025** </span> Our paper "AoI-Aware Optimization of Multi-Camera Coordination for Digital Twin Telepresence" has been accepted in 2025 IEEE Globecom Workshops (GC Wkshps): Workshop on The Interplay of Digital Twins and Artificial Intelligence for Next-Generation IoT.
 * <span style="color:blue"> **July 2025** </span> Our paper "Drift-Adaptive Slicing-Based Resource Management for Cooperative ISAC Networks" has been accepted in IEEE TCCN.
 * <span style="color:blue"> **June 2025** </span> **Award** Our [journal paper](https://ieeexplore.ieee.org/abstract/document/8954683) wins the [IEEE VTS OJVT Best Paper Award](https://vtsociety.org/paper-award/best-paper-award/ieee-vts-ojvt-best-paper-award), 2025
 * <span style="color:blue"> **June 2025** </span> I am serving as an associate editor for IEEE Wireless Communication Letter.
