@@ -1,7 +1,7 @@
 ---
-title: "CSE 398/498"
-permalink: /teaching/cse398Spring26
-venue: "Lehigh University, Department of Computer Science and Engineering"
+layout: page
+title: "CSE 398/498 – Data-Centric Edge-to-Cloud Systems"
+permalink: /teaching/cse398Spring26/
 ---
 
 
