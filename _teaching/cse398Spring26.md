@@ -2,6 +2,8 @@
 layout: page
 title: "CSE 398/498 – Data-Centric Edge-to-Cloud Systems"
 permalink: /teaching/cse398Spring26/
+classes: narrow
+
 ---
 
 
