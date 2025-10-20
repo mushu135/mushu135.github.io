@@ -5,9 +5,6 @@ permalink: /teaching/cse398Spring26/
 author_profile: false
 ---
 
-
-# CSE 398/498 – Data-Centric Edge-to-Cloud Systems  
-
 Lehigh University, Department of Computer Science and Engineering
 
 **Semester:** Spring 2026  
