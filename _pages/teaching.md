@@ -8,8 +8,11 @@ author_profile: true
 
 Teaching @ Lehigh University
 ========
-Spring 2025 - CSE/ECE 404 - Computer Networks
+Spring 2025 - [CSE 398/498](/teaching/cse398Spring26) – Data-Centric Edge-to-Cloud Systems 
+
 Fall 2025-2024 - CSE 109 - Systems Software
+
+Spring 2025 - CSE/ECE 404 - Computer Networks
 
 Teaching @ University of Waterloo
 ========
